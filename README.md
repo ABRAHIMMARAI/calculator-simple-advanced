@@ -1,3 +1,3 @@
-# calculator-simple-advanced
-كود الحسابة البسيطة والمتقدمة
+
+كود الحسا
 ![Uploading حسابة.png…]()
